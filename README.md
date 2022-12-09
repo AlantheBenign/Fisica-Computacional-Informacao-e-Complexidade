@@ -1,4 +1,4 @@
-# Física Computacional Informação e Complexidade
+# Física Computacional, Informação e Complexidade
 
 Disciplina optativa do oitavo período de física.
 
